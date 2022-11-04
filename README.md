@@ -1,15 +1,15 @@
 # Cat_tail_project
 고양이 꼬리 탐지 감정분류 예측모델 만들기
 
-일정
+_________________________일정________________________________________
 
 할 일 페이즈 1:
 
-1. Keypoint integrity 검증하는 기능 bb converter에 넣어서 git에 올리기
+1. [완료] Keypoint integrity 검증하는 기능 bb converter에 넣어서 git에 올리기
 
-2. 업데이트된 데이터셋 내려받아서 가공 후 git에 업로드
+2. [완료] 업데이트된 데이터셋 내려받아서 가공 후 git에 업로드
 
-3. Predict돌렸을 때 나오는 keypoint visualization 기능 구현하기
+3. Predict 돌렸을 때 나오는 keypoint visualization 기능 구현하기
 
 4. Keypoint와 keypoint 이름을 맞게 부착하기
 
