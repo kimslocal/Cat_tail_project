@@ -9,11 +9,13 @@ _________________________일정________________________________________
 
 2. [완료] 업데이트된 데이터셋 내려받아서 가공 후 git에 업로드
 
-3. Predict 돌렸을 때 나오는 keypoint visualization 기능 구현하기
+3. [완료] Predict 돌렸을 때 나오는 keypoint visualization 기능 구현하기
 
-4. Keypoint와 keypoint 이름을 맞게 부착하기
+4. [완료] Keypoint와 keypoint 이름을 맞게 부착하기
 
-5. Cocoeval.py에서 sigma 수치가 어떤 의미인지 파악하기(원본에서 수치가 고정적이지 않은 이유)
+5. Augemtnation 해서 돌리기
+
+6. Cocoeval.py에서 sigma 수치가 어떤 의미인지 파악하기(원본에서 수치가 고정적이지 않은 이유)
 
 
 할 일 페이즈 2:
